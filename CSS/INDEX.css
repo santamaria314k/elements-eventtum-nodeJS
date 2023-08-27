@@ -1,0 +1,317 @@
+
+
+.init {
+    width: 57px;
+    height: 57px;
+}
+
+.tem {
+    display: inline;
+    justify-content: center;
+}
+
+
+/* contenedores  header */
+
+.contenedor {
+    position: relative;
+    bottom: 8px;
+    width: 620px;
+    height: 500px;
+    left: 59%;
+    background-color: darkgray;
+
+}
+
+.contenedor2 {
+    position: relative;
+    display: flex;
+    left: 90px;
+    bottom: 410px;
+    width: 500px;
+    height: 300px;
+}
+
+/* ----------------------- */
+
+
+.contenedor2 .im1 {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    top: 20%;
+    left: 35%;
+    width: 200px;
+    height: 100px;
+}
+
+.contenedor2 h3 {
+    position: relative;
+    top: 50%;
+    right: 3%;
+
+}
+
+.contenedor h1 {
+    color: white;
+    position: relative;
+    top: 37%;
+    left: 22%;
+
+}
+
+
+
+/* tamaño de los botones */
+.contenedor2 button {
+    position: relative;
+    height: 40px;
+    width: 160px;
+    right: 41%;
+    top: 66%;
+    box-shadow: 11px 8px 7px black;
+}
+
+.contenedor button {
+    position: relative;
+    height: 40px;
+    width: 160px;
+    left: 35%;
+    top: 66%;
+    box-shadow: 11px 8px 7px white;
+}
+
+/* ---------------------- */
+
+
+.expertos {
+    position: relative;
+    text-align: center;
+    bottom: 240px;
+
+}
+
+.expertos::after {
+    position: relative;
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    left: 28%;
+    height: 1px;
+    width: 44%;
+    background-color: black;
+
+}
+
+.content {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    bottom: 150px;
+}
+
+
+.oneconts {
+    font-size: 11px;
+    color: aliceblue;
+    position: relative;
+    width: 340px;
+    height: 280px;
+    background: rgb(0, 0, 0);
+
+    background: linear-gradient(225deg, rgba(0, 0, 0, 1) 53%, rgba(149, 149, 149, 1) 53%);
+
+}
+
+
+.twoconts {
+    font-size: 11px;
+    color: aliceblue;
+    position: relative;
+    width: 340px;
+    height: 280px;
+    background: rgb(0, 0, 0);
+
+    background: linear-gradient(225deg, rgba(0, 0, 0, 1) 53%, rgba(149, 149, 149, 1) 53%);
+
+}
+
+.treeconts {
+    font-size: 11px;
+    color: aliceblue;
+    position: relative;
+    width: 340px;
+    height: 280px;
+    background: rgb(0, 0, 0);
+    background: linear-gradient(225deg, rgba(0, 0, 0, 1) 53%, rgba(149, 149, 149, 1) 53%);
+
+}
+
+.oneconts button {
+    position: relative;
+    width: 67px;
+    height: 19px;
+    left: 66%;
+    font-size: 8px;
+}
+
+.twoconts {
+    position: relative;
+    width: 67px;
+    height: 19px;
+    left: 66%;
+    font-size: 8px;
+}
+
+.treeconts {
+    position: relative;
+    width: 97px;
+    height: 49px;
+    left: 66%;
+    font-size: 18px;
+}
+
+
+
+.text-lowercase {
+    position: relative;
+    left: 55%;
+}
+
+
+.salon {
+    position: relative;
+    text-align: center;
+
+}
+
+.salon::after {
+    position: relative;
+    content: "";
+    bottom: -10px;
+    left: 28%;
+    height: 2px;
+    width: 44%;
+    background-color: whitesmoke;
+
+}
+
+.senior img {
+    position: relative;
+    bottom: 70px;
+    left: 20%;
+    width: 330px;
+    height: 330px;
+    box-shadow: 33px 37px 19px;
+
+}
+
+
+.vertical {
+    position: relative;
+    width: 1px;
+    height: 330px;
+    background-color: black;
+    margin: 20px auto;
+    left: 50px;
+    bottom: 419px;
+}
+
+.textexten {
+    position: relative;
+    left: 900px;
+    bottom: 730px;
+    font-size: 19px;
+}
+
+.bienvenidoeventum {
+    position: relative;
+    width: 90PX;
+    height: 30PX;
+    left: 1090px;
+    bottom: 975px;
+}
+
+
+
+.expertos2 {
+    position: relative;
+    text-align: center;
+    bottom: 540px;
+
+}
+
+.expertos2::after {
+    position: relative;
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    left: 28%;
+    height: 1px;
+    width: 44%;
+    background-color: black;
+
+}
+
+.opiniones {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    background-color: azure;
+    width: 888px;
+    height: 300px;
+    bottom: 400px;
+}
+
+.op1 {
+    position: absolute;
+    text-align: center;
+    background-color: black;
+    color: azure;
+    border-radius: 15px;
+    width: 31%;
+    height: 40%;
+    right: 25%;
+}
+
+.op2 {
+    position: absolute;
+    text-align: center;
+    background-color: black;
+    color: azure;
+    border-radius: 15px;
+    width: 31%;
+    height: 40%;
+    left: 110%;
+}
+
+.cara1 {
+    position: relative;
+    width: 350px;
+    height: 350px;
+    bottom: 139px;
+    left: 170px;
+}
+
+.cara2 {
+    position: relative;
+    width: 350px;
+    height: 350px;
+    bottom: 139px;
+    left: 220px;
+
+}
+
+footer {
+    position: relative;
+    display: block;
+    background-color: black;
+    bottom: 450px;
+}
+
+footer img {
+    position: absolute;
+    left: 40%;
+
+}
